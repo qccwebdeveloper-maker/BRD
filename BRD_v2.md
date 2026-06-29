@@ -408,24 +408,4 @@ Each objective metric with formula, data source, frequency, and an indicative ta
 
 ---
 
-## 18. Glossary
 
-| Term | Definition |
-|------|------------|
-| Lead | A buyer enquiry captured and distributed to sellers. |
-| Buy Lead | Purchasing additional leads beyond package allocation via credits. |
-| Package | A seller subscription plan defining entitlements. |
-| Subscription | A seller's active/trial instance of a package. |
-| Product Quality Score | Computed 0–100% score gating Featured eligibility & visibility. |
-| Featured Listing | Promoted product placement (score/package gated). |
-| Dealing Area | Seller-defined geography (Country/State/City) for relevance/targeting. |
-| e-NACH | Electronic mandate for recurring payment authorisation (India). |
-| MOQ | Minimum Order Quantity. |
-| HSN | Harmonized System of Nomenclature (tax code). |
-| RBAC | Role-Based Access Control. |
-| Client Checklist | Admin tool tracking incomplete seller profile/SEO/media/docs. |
-| MAU | Monthly Active Users (meaningful action). |
-
----
-
-*End of Document — BRD v2.0 (Draft for Review). Supersedes v1.0.*
